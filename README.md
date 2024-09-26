@@ -1,10 +1,11 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38C2FF&center=true&width=435&lines=console.log('Hi+There!');I+am+Amanda+Changa" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=61DAFB&center=true&width=600&lines=Hi+There!+%F0%9F%91%8B;I+am+Amanda+Changa;Show+some+%F0%9F%92%99+and+%E2%AD%90+some+repos!" alt="Typing SVG" /></a>
 </div>
 
 ---
 
 <div align="center">
+
 <h3>My Tech Toolbox :toolbox:</h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="40" height="40"/>
@@ -25,7 +26,25 @@
 
 ---
 
+<div align="center">
+<h3>My Stats :bar_chart: </h3>
+  Visitors <br>
+  <img src="https://profile-counter.glitch.me/mandi7469/count.svg" />
+<p>
+<a href="https://github.com/mandi7469/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandi7469&langs_count=8&layout=donut&theme=react&text_color=61DAFB" alt="Language Stats" /></a>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mandi7469&theme=react&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=mandi7469&show_icons=true&theme=react&hide_rank=true" alt="GitHub Stats" />
+</p>
+  
+</div>
+
+---
+
+<div align="center">
+  
+</div>
 
 
 
