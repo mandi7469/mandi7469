@@ -34,7 +34,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mandi7469&theme=react&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mandi7469&show_icons=true&theme=react&hide_rank=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mandi7469&show_icons=true&theme=react&hide_rank=true&show=total_stars" alt="GitHub Stats" />
 </p> 
 </div>
 
