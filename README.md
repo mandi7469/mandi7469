@@ -5,7 +5,6 @@
 ---
 
 <div align="center">
-
 <h3>My Tech Toolbox :toolbox:</h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="40" height="40"/>
@@ -36,32 +35,28 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mandi7469&theme=react&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mandi7469&show_icons=true&theme=react&hide_rank=true" alt="GitHub Stats" />
-</p>
-  
+</p> 
 </div>
 
 ---
 
 <div align="center">
-  
-</div>
-
-
-
-<!--
+<h3>My Information :computer: </h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/amanda-changa/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <img src="https://img.shields.io/badge/LinkedIn-61dafb?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/></a>
   <a href="mailto:mandi7469@aol.com">
-    <img src="https://img.shields.io/badge/Email-darkblue?style=for-the-badge&logo=Mail.Ru&logoColor=white" alt="Email Badge"/></a>
+    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Mail.Ru&logoColor=white" alt="Email Badge"/></a>
   <a href="https://amanda-portfolio-website.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=Netlify&logoColor=white" alt="Portfolio Badge"/></a>
+    <img src="https://img.shields.io/badge/Portfolio-61dafb?style=for-the-badge&logo=Netlify&logoColor=black" alt="Portfolio Badge"/></a>
 </div>
   
-  
-  Visitors <br>
-  <img src="https://profile-counter.glitch.me/mandi7469/count.svg" />
--->
+</div>
+
+
+
+
+
 
 
 
@@ -70,9 +65,7 @@
 
 
 <!--
-**mandi7469/mandi7469** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here are some ideas:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
