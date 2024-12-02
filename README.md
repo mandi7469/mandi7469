@@ -32,8 +32,8 @@
 <p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandi7469&langs_count=8&layout=donut&theme=react&text_color=61DAFB)](https://github.com/mandi7469/github-readme-stats)
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mandi7469&theme=react&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mandi7469&theme=react&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandi7469&show_icons=true&theme=react&show=total_stars,total_commits,total_prs,total_issues,contribs)
 </div>
