@@ -45,7 +45,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/amanda-changa/">
     <img src="https://img.shields.io/badge/LinkedIn-61dafb?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/></a>
-  <a href="mailto:mandi7469@aol.com">
+  <a href="mailto:amandachanga7@gmail.com">
     <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Mail.Ru&logoColor=white" alt="Email Badge"/></a>
   <a href="https://amanda-portfolio-website.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-61dafb?style=for-the-badge&logo=Netlify&logoColor=black" alt="Portfolio Badge"/></a>
