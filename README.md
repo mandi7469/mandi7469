@@ -17,6 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
 <img src="https://github.com/user-attachments/assets/3eefd9c1-6904-4199-a94e-e6341dcd43e0" alt="Visme" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg?theme=light" alt="Express" width="40" height="40"/>
 </p>
@@ -26,7 +27,9 @@
 ---
 
 <div align="center">
-
+<!-- <h3>My Stats :bar_chart: </h3>
+  Visitors <br>
+  <img src="https://profile-counter.glitch.me/mandi7469/count.svg" /> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandi7469&langs_count=8&layout=donut&theme=react&text_color=61DAFB)](https://github.com/mandi7469/github-readme-stats)
 
