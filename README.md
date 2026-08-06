@@ -7,11 +7,10 @@
 
   <img src="./assets/amanda-coding.gif" width="800" alt="Clay-style animation of Amanda coding at her desk while listening to music" />
   <br />
-  <br />
 
   <p>
-    <a href="https://www.linkedin.com/in/amanda-changa/"><img src="./assets/social-linkedin.svg" width="110" height="36" alt="Connect with Amanda on LinkedIn" /></a>
-    <a href="mailto:amandachanga7@gmail.com"><img src="./assets/social-email.svg" width="110" height="36" alt="Email Amanda" /></a>
-    <a href="https://amanda-portfolio-website.netlify.app/"><img src="./assets/social-portfolio.svg" width="110" height="36" alt="View Amanda's portfolio" /></a>
+    <a href="https://www.linkedin.com/in/amanda-changa/"><img src="./assets/social-linkedin.svg" width="110" height="44" alt="Connect with Amanda on LinkedIn" /></a>
+    <a href="mailto:amandachanga7@gmail.com"><img src="./assets/social-email.svg" width="110" height="44" alt="Email Amanda" /></a>
+    <a href="https://amanda-portfolio-website.netlify.app/"><img src="./assets/social-portfolio.svg" width="110" height="44" alt="View Amanda's portfolio" /></a>
   </p>
 </div>

@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="110" height="36" viewBox="0 0 110 36" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="44" viewBox="0 0 110 44" role="img" aria-labelledby="title">
   <title id="title">Portfolio</title>
-  <rect width="110" height="36" rx="9" fill="#65BFAE" />
-  <text x="55" y="18" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="0.8" text-anchor="middle" dominant-baseline="central">Portfolio</text>
+  <rect y="8" width="110" height="36" rx="9" fill="#65BFAE" />
+  <text x="55" y="26" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="0.8" text-anchor="middle" dominant-baseline="central">Portfolio</text>
 </svg>
