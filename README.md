@@ -6,10 +6,11 @@
   <h3>Frontend / Full-Stack Developer | AI-Assisted Developer</h3>
 
   <img src="./assets/amanda-coding.gif" width="800" alt="Clay-style animation of Amanda coding at her desk while listening to music" />
+  <br />
 
   <p>
-    <a href="https://www.linkedin.com/in/amanda-changa/"><img src="https://img.shields.io/badge/LinkedIn-35A89F?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Amanda on LinkedIn" /></a>
-    <a href="mailto:amandachanga7@gmail.com"><img src="https://img.shields.io/badge/Email-4AAFC2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Amanda" /></a>
-    <a href="https://amanda-portfolio-website.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-65BFAE?style=for-the-badge&logo=netlify&logoColor=white" alt="View Amanda's portfolio" /></a>
+    <a href="https://www.linkedin.com/in/amanda-changa/"><img src="./assets/social-linkedin.svg" width="110" height="36" alt="Connect with Amanda on LinkedIn" /></a>
+    <a href="mailto:amandachanga7@gmail.com"><img src="./assets/social-email.svg" width="110" height="36" alt="Email Amanda" /></a>
+    <a href="https://amanda-portfolio-website.netlify.app/"><img src="./assets/social-portfolio.svg" width="110" height="36" alt="View Amanda's portfolio" /></a>
   </p>
 </div>
