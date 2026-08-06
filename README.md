@@ -7,6 +7,7 @@
 
   <img src="./assets/amanda-coding.gif" width="800" alt="Clay-style animation of Amanda coding at her desk while listening to music" />
   <br />
+  <br />
 
   <p>
     <a href="https://www.linkedin.com/in/amanda-changa/"><img src="./assets/social-linkedin.svg" width="110" height="36" alt="Connect with Amanda on LinkedIn" /></a>
