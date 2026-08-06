@@ -1,56 +1,15 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=61DAFB&center=true&width=600&lines=Hi+There!+%F0%9F%91%8B;I+am+Amanda+Changa;Show+some+%F0%9F%92%99+and+%E2%AD%90+some+repos!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1200&color=35A89F&center=true&vCenter=true&repeat=true&width=700&lines=Hi+Friends%21+%F0%9F%91%8B%3BI%27m+Amanda+Changa" alt="Animated introduction: Hi Friends, then I'm Amanda Changa" />
+  </a>
+
+  <h3>Frontend / Full-Stack Developer | AI-Assisted Developer</h3>
+
+  <img src="./assets/amanda-coding.gif" width="800" alt="Clay-style animation of Amanda coding at her desk while listening to music" />
+
+  <p>
+    <a href="https://www.linkedin.com/in/amanda-changa/"><img src="https://img.shields.io/badge/LinkedIn-35A89F?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Amanda on LinkedIn" /></a>
+    <a href="mailto:amandachanga7@gmail.com"><img src="https://img.shields.io/badge/Email-4AAFC2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Amanda" /></a>
+    <a href="https://amanda-portfolio-website.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-65BFAE?style=for-the-badge&logo=netlify&logoColor=white" alt="View Amanda's portfolio" /></a>
+  </p>
 </div>
-
----
-
-<div align="center">
-<h3>My Tech Toolbox :toolbox:</h3>
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JS" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" alt="JQuery" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJS" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
-<img src="https://github.com/user-attachments/assets/3eefd9c1-6904-4199-a94e-e6341dcd43e0" alt="Visme" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg?theme=light" alt="Express" width="40" height="40"/>
-</p>
-
-</div>
-
----
-
-<div align="center">
-<!-- <h3>My Stats :bar_chart: </h3>
-  Visitors <br>
-  <img src="https://profile-counter.glitch.me/mandi7469/count.svg" /> -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandi7469&langs_count=8&layout=donut&theme=react&text_color=61DAFB)](https://github.com/mandi7469/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mandi7469&theme=react&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
-![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandi7469&show_icons=true&theme=react&show=total_stars,total_commits,total_prs,total_issues,contribs)
-</div>
-
----
-
-<div align="center">
-<h3>My Information :computer: </h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/amanda-changa/">
-    <img src="https://img.shields.io/badge/LinkedIn-61dafb?style=for-the-badge&logo=inspire&logoColor=black" alt="LinkedIn Badge"/></a> 
-  <a href="mailto:amandachanga7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Mail.Ru&logoColor=white" alt="Email Badge"/></a>
-  <a href="https://amanda-portfolio-website.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-61dafb?style=for-the-badge&logo=Netlify&logoColor=black" alt="Portfolio Badge"/></a>
-</div>
-  
-</div>
-
-
